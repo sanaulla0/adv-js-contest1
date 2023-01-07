@@ -1,0 +1,22 @@
+*{
+    margin: 4px;
+    
+}
+body{
+     background-color: black;
+}
+.color{
+     color: green;
+}
+
+   table,td{
+      padding: 30px;
+      
+       font-size:30px;
+       border-bottom: 2px solid white;
+       /* border-bottom-color : white; */
+        color: white;
+        border-collapse: collapse;
+        border-inline: none;
+        border-top: none;
+} 
